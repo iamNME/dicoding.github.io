@@ -268,7 +268,7 @@ figure img{
 #banner-bottom{
     width: 100%; 
     height: 500px;
-    background: linear-gradient(rgba(0,0,0, 0.7),rgba(0,0,0, 0.7)), url("picture/keyboard.jpg") no-repeat; 
+    background: linear-gradient(rgba(0,0,0, 0.7),rgba(0,0,0, 0.7)), url("keyboard.jpg") no-repeat; 
     background-size: cover;
     background-position: center;
 }
