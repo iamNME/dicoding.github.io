@@ -125,7 +125,7 @@ nav ul li a:hover{
 }
 
 #banner{
-    background: linear-gradient(rgba(0,0,0, 0.7),rgba(0,0,0, 0.7)), url('picture/CIMG9018.JPG') no-repeat; 
+    background: linear-gradient(rgba(0,0,0, 0.7),rgba(0,0,0, 0.7)), url('CIMG9018.JPG') no-repeat; 
     background-size: cover;
     background-position: center;
     margin: auto;
